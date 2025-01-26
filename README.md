@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning ...Python
 - 💞️ I’m looking to collaborate on ...Data scientist
-- 📫 How to reach me ...6360338018
+- 📫 How to reach me ...6206594699
 
 <!---
 manish7262/manish7262 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
